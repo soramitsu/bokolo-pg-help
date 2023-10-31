@@ -1,7 +1,5 @@
 # Manage Main Account
 
-## Functionality
-
 Use the **Manage Main Account** tab to make a custom transaction to an account registered under the bank’s domain in the Bokolo network.
 
 ## Accessibility

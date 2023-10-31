@@ -1,7 +1,5 @@
 # Key Recovery Requests
 
-## Functionality
-
 Use the **Key Recovery Requests** tab to view and interact with the list of access recovery requests from mobile users.
 
 ## Accessibility
@@ -12,7 +10,8 @@ By default, this tab is only accessible by users with the following roles:
 
 ## On this tab
 
-- **Key Recovery Requests** table — contains a list of all KYC verification requests from desktop users. The table contains the following fields:
+- **Key Recovery Requests** table — contains a list of all KYC verification requests from Bokolo Mobile users.\
+  The table contains the following fields:
   - **Status** — the current status of a request at the time of observing. The status can be one of the following:
     - **AUTHORIZED** — a user’s request has been reviewed by an authorizer.
     - **APPROVED** — a user’s request has been approved by the central bank via Core.

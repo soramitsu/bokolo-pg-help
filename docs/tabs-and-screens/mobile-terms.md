@@ -1,7 +1,5 @@
 # Mobile Terms
 
-## Functionality
-
 Use the **Bank Contact Information** tab to view and edit the bank’s contact information..
 
 ## Accessibility

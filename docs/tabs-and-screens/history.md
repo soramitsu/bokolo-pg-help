@@ -1,7 +1,5 @@
 # History
 
-## Functionality
-
 Use the **History** tab to view and interact with the list of all transactions under the bank’s domain in the Bokolo network.
 
 ## Accessibility
@@ -20,16 +18,18 @@ By default, this tab is only accessible by users with the following roles:
   - **From Account** — the Account ID of an account that is specified as a sender.
   - **To Account** — the Account ID of an account that is specified as a receiver.
   - **CCY** — the currency of a transaction.
-  - **Amount** — the exact amount that has been transfered.
+  - **Amount** — the exact amount that has been transferred.
   - **Status** — the current status of a transaction at the moment of observing.
-- **History** table may be filtered by the following parameters:
+- **History** table may be filtered by specifying the following parameters at the top of the tab:
   - **Currency** dropdown menu — select the currency of the transactions.
   - **To Account** dropdown menu — input the Account ID of a receiver of the transactions.
   - **Dates** bar — input the time period of transactions.
   - **Transaction Status** dropdown menu — select the status of the transactions.
-- **Export** button — allows to export the contents of the **Mobile Users** table as a `.csv` file.
+- **Export** button — allows you to export the contents of the **Mobile Users** table as a `.csv` file.
+- **Search** bar — allows you to look up a specific transaction.\
+For details, see [Searching for a specific transaction](#searching) below.
 
-### Exporting table contents
+## Exporting table contents
 
 ::: tip Note
 
@@ -48,3 +48,10 @@ To export the contents of the **Mobile Users** table, perform the following step
    The chosen date is input into the **End Date** field; the **Calendar** window disappears.
 5. Select **Export CSV**.\
    The resulting `.csv` file is downloaded to your computer.
+
+## Searching for a specific transaction {#searching}
+
+To look up a specific transaction, input one of the following types of data into the **Search** bar:
+- **Account ID** — type in the unique identifier of the user who participated in the transaction as either sender or recipient.\
+Format: `username@domain`; e.g., `james_mae#auki`
+- **Amount** — type in the amount in SBD that was processed in the transaction.

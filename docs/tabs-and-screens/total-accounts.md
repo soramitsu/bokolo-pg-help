@@ -1,7 +1,5 @@
 # Total Accounts
 
-## Functionality
-
 Use the **Total Accounts** tab to view information on the bank’s direct and indirect accounts, including their separate and total balances.
 
 ## Accessibility

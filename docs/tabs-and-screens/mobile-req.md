@@ -1,7 +1,5 @@
 # Mobile Requests
 
-## Functionality
-
 Use the **Mobile requests** tab to view and interact with the list of KYC verification requests from mobile users.
 
 ## Accessibility
@@ -9,6 +7,7 @@ Use the **Mobile requests** tab to view and interact with the list of KYC verifi
 By default, this tab is only accessible by users with the [Administrator](../roles.md#administrator) role.
 
 ## On this tab
+
 - **Waiting for approval (Mobile)** table — contains a list of all KYC verification requests from mobile users. The table contains the following fields:
   - **View** — contains the **Details** button for each record. Selecting **Details** opens the **User Info** screen containing the account details of a user.
   - **Full name** — the first and last name of a user.

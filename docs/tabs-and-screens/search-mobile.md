@@ -1,7 +1,5 @@
 # Search Mobile Users
 
-## Functionality
-
 Use the **Search Mobile Users** tab to find users under the bank’s domain by their phone number.
 
 ## Accessibility

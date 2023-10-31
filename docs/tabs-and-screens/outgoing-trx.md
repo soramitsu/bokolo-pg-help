@@ -1,7 +1,5 @@
 # Outgoing Transactions
 
-## Functionality
-
 Use the **Outgoing Transactions** tab to view and interact with the list of outgoing transactions.
 
 ## Accessibility
@@ -9,6 +7,7 @@ Use the **Outgoing Transactions** tab to view and interact with the list of outg
 By default, this tab is only accessible by users with the [Manager](../roles.md#manager) role.
 
 ## On this tab
+
 - **Outgoing Transactions** table — contains a list of all outgoing transactions to the bank’s main account. The table contains the following fields:
   - **View** — contains the **Details** button for each record. Selecting **Details** opens the **Transaction Details** screen containing all the available information on the transaction.
   - **Trx Hash** — the unique hash ID of a transaction in the Iroha network.
