@@ -15,7 +15,7 @@ The **Menu** is always visible on the left of the page when you are viewing this
 
 ## Initial Setup
 
-If your bank has only joined Bokolo network, you must perform the initial setup.
+If your bank has just joined Bokolo network, you must perform the initial setup.
 
 Please follow the instructions from the **Getting Started** topics below to successfully set up your bank:
 1. [Adding a new bank](./getting-started/add-bank.md)
