@@ -30,8 +30,7 @@ Has the following permissions:
 - [Mobile requests](./tabs-and-screens/mobile-req.md)
 - [Mobile users](./tabs-and-screens/mobile-users.md)
 - [Key recovery requests](./tabs-and-screens/key-req.md)
-- [Add limit](./tabs-and-screens/add-limit.md)
-- [Mobile limit](./tabs-and-screens/mobile-limits.md)
+- [Limits](./tabs-and-screens/limits.md)
 - [Change phone requests (Admin)](./tabs-and-screens/change-phone.md)
 - [Bank contact information](./tabs-and-screens/bank-contact.md)
 - [Mobile terms](./tabs-and-screens/mobile-terms.md)
@@ -56,7 +55,6 @@ Has the following permissions:
 ## Permissions
 
 List of all permissions:
-- **Add limit** — grants access to use the [KYC Limit Amount \> Add Limit](./tabs-and-screens/add-limit.md) tab.
 - **Authorize change phone requests** — grants access to use the [Change Phone Requests](./tabs-and-screens/change-phone.md) tab as an **Authorizer**.
 - **Authorize recovery requests** — grants access to use the [Key Recovery Requests](./tabs-and-screens/key-req.md) tab as an **Authorizer**.
 - **Bank contact information** — grants access to use the [Bank Contact Information](./tabs-and-screens/bank-contact.md) tab.
@@ -66,6 +64,7 @@ List of all permissions:
 - **History (Auditor)** — grants access to use the [History](./tabs-and-screens/history.md) tab as an **Auditor**.
 - **Incoming transactions** — grants access to use the [Incoming Transactions](./tabs-and-screens/incoming-trx.md) tab.
 - **Key recovery requests** — grants access to use the [Key Recovery Requests](./tabs-and-screens/key-req.md) tab.
+- **Limits** — grants access to use the [Limits](./tabs-and-screens/limits.md) tab.
 - **Main account** — grants access to use the [Main Account](./tabs-and-screens/main-account.md) tab.
 - **Manage main account** — grants access to use the [Manage Main Account](./tabs-and-screens/manage-main.md) tab.
 - **Mobile limit** — grants access to use the [Limits](./tabs-and-screens/limits.md) tab.
