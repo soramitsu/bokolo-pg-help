@@ -1,7 +1,5 @@
 # Incoming Transactions
 
-## Functionality
-
 Use the **Incoming Transactions** tab to view and interact with the list of incoming transactions.
 
 ## Accessibility
@@ -9,6 +7,7 @@ Use the **Incoming Transactions** tab to view and interact with the list of inco
 By default, this tab is only accessible by users with the [Manager](../roles.md#manager) role.
 
 ## On this tab
+
 - **Incoming Transactions** table — contains a list of all incoming transactions to the bank’s main account. The table contains the following fields:
   - **View** — contains the **Details** button for each record. Selecting **Details** opens the **Transaction Details** screen containing all the available information on the transaction.
   - **Trx Hash** — the unique hash ID of a transaction in the Iroha network.

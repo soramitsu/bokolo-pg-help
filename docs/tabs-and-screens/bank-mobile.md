@@ -9,6 +9,7 @@ Use the **Bank Mobile Users** tab to view the list of all mobile users and their
 By default, this tab is only accessible by users with the [Auditor](../roles.md#auditor) role.
 
 ## On this tab
+
 - **Mobile Users** table — contains a list of all mobile users. The table contains the following fields:
   - **View** — contains the **Details** button for each record. Selecting **Details** opens the **User Info** screen containing the account details of a user.
   - **Full name** — the first and last name of a user.

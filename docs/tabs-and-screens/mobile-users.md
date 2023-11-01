@@ -1,7 +1,5 @@
 # Mobile Users
 
-## Functionality
-
 Use the **Mobile Users** tab to view and interact with the list of all mobile users.
 
 ## Accessibility
@@ -9,6 +7,7 @@ Use the **Mobile Users** tab to view and interact with the list of all mobile us
 By default, this tab is only accessible by users with the [Administrator](../roles.md#administrator) role.
 
 ## On this tab
+
 - **Mobile Users** table — contains a list of all mobile users. The table contains the following fields:
   - **View** — contains the **Details** button for each record. Selecting **Details** opens the **User Info** screen containing the account details of a user.
   - **Full name** — the first and last name of a user.

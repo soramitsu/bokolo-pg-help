@@ -1,7 +1,5 @@
 # Change Phone Requests
 
-## Functionality
-
 Use the **Change Phone Requests** tab to view and interact with the list of all mobile users’ requests to change their phone number.
 
 ## Accessibility

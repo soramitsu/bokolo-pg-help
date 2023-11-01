@@ -1,7 +1,5 @@
 # Dashboard
 
-## Functionality
-
 Use the **Dashboard** tab to have a quick and easy access to the [Main Account](./main-account.md), [Incoming Transactions](./incoming-trx.md) and [Outgoing Transactions](./outgoing-trx.md) screens on a single tab.
 
 ## Accessibility

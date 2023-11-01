@@ -1,8 +1,6 @@
 # Bank Contact Information
 
-## Functionality
-
-Use the **Bank Contact Information** tab to view and edit the bank’s contact information..
+Use the **Bank Contact Information** tab to view and edit the bank’s contact information.
 
 ## Accessibility
 
@@ -38,4 +36,5 @@ To edit bank’s contact information, perform the following steps:
 2. If required, fill in the optional **Facebook link** field.
 3. If required, upload relevant images into the **Logo** and **Title logo** fields.
 4. When ready, select **Update**.\
-   A **Success** notification appears.
+
+A **Success** notification appears and your bank's contact information is updated for all Bokolo Mobile users registered with your bank.
