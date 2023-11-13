@@ -9,7 +9,7 @@ This Help is written for everyone who interacts with the Payment Gateway:
 
 ## Navigation
 
-If you are in need of assistance with any of the UI tabs that are accessible to you as a Bokolo Payment Gateway user of your bank, please select a **Tabs and Screens** topic with the same name from the **Menu**.
+If you are in need of assistance with any of the UI tabs that are accessible to you as a Bokolo Payment Gateway user of your bank, please select a topic from the **Tabs and Screens** section with the same name from the **Menu**.
 
 The **Menu** is always visible on the left of the page when you are viewing this Help on a PC or another device with a large screen. When viewing from a mobile device, the **Menu** is at the top of the page.
 
@@ -17,7 +17,7 @@ The **Menu** is always visible on the left of the page when you are viewing this
 
 If your bank has just joined Bokolo network, you must perform the initial setup.
 
-Please follow the instructions from the **Getting Started** topics below to successfully set up your bank:
+Please follow instructions from the topics in the **Getting Started** section to successfully set up your bank:
 1. [Adding a new bank](./getting-started/add-bank.md)
 2. [Activating a new bank](./getting-started/activate-bank.md)
 3. [Creating new users](./getting-started/create-users.md)
@@ -26,4 +26,4 @@ After you have successfully completed the initial setup, you may familiarize you
 
 Then, for a detailed overview of every feature, proceed to the topics in the **Tabs and Screens** section.
 
-After the initial setup is performed, people get the ability to register in Bokolo Mobile with your bank, whereas bank employees get the ability to process all of the necessary operations and requests via Bokolo Payment Gateway. 
+After the initial setup is performed, people get the ability to register in Bokolo Mobile with your bank, whereas bank employees get the ability to process all of the necessary operations and requests via Bokolo Payment Gateway.

@@ -9,7 +9,7 @@ By default, this tab is only accessible by users with the [Manager](../roles.md#
 ## On this tab
 
 The **Transfer from: \<bank_name\> Main Account** panel has the following fields:
-- **Transfer to** — the receiver of the transaction; a user’s phone number or their unique identification number in the `username@domain` format (e.g., `james_mae@iroha`) could be input into the field.
+- **Transfer to** — the receiver of the transaction; a user’s phone number or their unique identification number in the `username@domain` format (e.g., `james_mae@auki`) could be input into the field.
 - **Transfer from (phone)** — the phone number of a specified sender of the transaction; the receiver of the transaction will see the specified phone number as the sender of the transaction.
 - **Transfer from (name)** — the name of a specified sender of the transaction; the receiver of the transaction will see the specified full name as the sender of the transaction.
 - **Choose currency** — the currency of the transaction.

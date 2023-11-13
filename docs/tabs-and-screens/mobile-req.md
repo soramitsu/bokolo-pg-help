@@ -11,7 +11,7 @@ By default, this tab is only accessible by users with the [Administrator](../rol
 - **Waiting for approval (Mobile)** table — contains a list of all KYC verification requests from mobile users. The table contains the following fields:
   - **View** — contains the **Details** button for each record. Selecting **Details** opens the **User Info** screen containing the account details of a user.
   - **Full name** — the first and last name of a user.
-  - **Account ID** — the unique identification number of a user in the `username@domain` format (e.g., `james_mae@iroha`).
+  - **Account ID** — the unique identification number of a user in the `username@domain` format (e.g., `james_mae@auki`).
   - **Phone number** — the phone number of a user.
   - **Email** — the email address of a user.
   - **Address** — the actual residential address of a user.

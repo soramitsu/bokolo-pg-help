@@ -6,7 +6,7 @@ In the **Bokolo** network, to activate a new bank, all three **Keyholder** users
    The **Register account** screen appears.
 3. Come up with a *unique secret key* and input it into the **Secret key** and **Repeat secret key** fields, then click **Submit**.
 
-::: tip Note
+::: info
 
 The secret key must contain at least one upper case letter, one lower case letter, one numeric character and one special character.
 
