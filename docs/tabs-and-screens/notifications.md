@@ -18,7 +18,7 @@ The **Notifications** tab consists of the following UI elements:
   - **Recipient** — the recipient(s) of a notification.\
   Can be `everyone` or can list all of the individual users or groups of users.
   - **Message** — the **Notification text** of a notification.\
-  For details, see [Creating new notifications](#creating-new-notifications)).
+  For details, see [Creating new notifications](#creating-new-notifications), Step 3).
   - **Message Date and Time** — the exact date and time of when the message was sent out.\
   Format: YYYY-MM-DD local time in 24-hour time format (e.g., 2023-10-30 20:12:49)
 
@@ -40,6 +40,8 @@ To create a new notification, perform the following steps:
    - **Notification text** — the short text that is shown in the push notification that users receive; can be up to 200 symbols.
    - **Full text** — the long text that is shown if users tap the push notification; can be up to 500 symbols.
 4. When ready, select **Create and send notification**.
+
+A **Success** notification appears, a new notification is sent out to the specified recipients and is added to the **Notifications** table.
 
 ::: tip
 

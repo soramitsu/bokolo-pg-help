@@ -19,7 +19,7 @@ By default, this tab is only accessible by users with the [Manager](../roles.md#
     - **View** — contains the **Details** button for each record. Selecting **Details** opens the **Account Details** screen containing the account details.
     - **Type** — indicates the type of users based on their KYC status that the limit is set for.
     - **Name** — the first and last name on an account.
-    - **Account ID** — the unique identification number of a user in the `username@domain` format (e.g., `james_mae@iroha`).
+    - **Account ID** — the unique identification number of a user in the `username@domain` format (e.g., `james_mae@auki`).
     - **SBD** — the current balance on the account.
 - **Indirect account** section — displays information on the indirect accounts under the bank’s domain.  
   The section contains the following fields:
@@ -29,5 +29,5 @@ By default, this tab is only accessible by users with the [Manager](../roles.md#
     - **View** — contains the **Details** button for each record. Selecting **Details** opens the **Account Details** screen containing the account details.
     - **Type** — indicates the type of users based on their KYC status that the limit is set for.
     - **Name** — the first and last name on an account.
-    - **Account ID** — the unique identification number of a user in the `username@domain` format (e.g., `james_mae@iroha`).
+    - **Account ID** — the unique identification number of a user in the `username@domain` format (e.g., `james_mae@auki`).
     - **SBD** — the current balance on the account.

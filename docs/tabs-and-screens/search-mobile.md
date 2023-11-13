@@ -10,7 +10,7 @@ By default, this tab is only accessible by users with the [Auditor](../roles.md#
 - **Phone number** field — input the desired phone number into this field.
 - **Results** table — contains the results based on the phone number input into the **Phone number** field. The table contains the following fields:
   - **Full Name** — the full name of a found user.
-  - **Account ID** — the unique identification number of a found user in the `username@domain` format (e.g., `james_mae@iroha`).
+  - **Account ID** — the unique identification number of a found user in the `username@domain` format (e.g., `james_mae@auki`).
   - **Phone Number** — the phone number on the account of a found user.
   - **Registered Bank** — the name of the bank that a found user is registered with.
 

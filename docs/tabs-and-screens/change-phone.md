@@ -11,7 +11,7 @@ By default, this tab is only accessible by users with the following roles:
 ## On this tab
 
 - **Change Phone Requests** table — contains a list of all mobile users. The table contains the following fields:
-  - **Account** — the unique identification number of a user in the `username@domain` format (e.g., `james_mae@iroha`).
+  - **Account** — the unique identification number of a user in the `username@domain` format (e.g., `james_mae@auki`).
   - **Phone number** — the phone number that a user has specified as a new one.
   - **Creator** — the full name of the creator of a request.
   - **Status** — the current status of a request.

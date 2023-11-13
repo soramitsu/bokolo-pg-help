@@ -1,7 +1,7 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
-  title: "Help for Bokolo Payment Gateway",
+  title: "Help for Bokolo PG",
   description: "This Help provides extensive overview of all features and actions possible with Bokolo Payment Gateway",
 
   srcDir: "docs",
@@ -62,6 +62,10 @@ export default defineConfig({
             {
               link: "tabs-and-screens/history",
               text: "History",
+            },
+            {
+              link: "tabs-and-screens/notifications",
+              text: "Notifications",
             },
             {
               text: "Waiting for Approval",
